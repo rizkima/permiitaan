@@ -1,0 +1,2 @@
+# permiitaan
+Premontaan tetap permintaan
